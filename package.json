@@ -15,7 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "esbuild": "^0.17.18",
-    "esbuild-serve": "^1.0.1"
+    "esbuild-serve": "^1.0.1",
+    "gh-pages": "^5.0.0"
   },
   "dependencies": {
     "@types/react": "^18.2.6",
